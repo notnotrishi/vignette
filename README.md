@@ -8,6 +8,12 @@ Instructions:
 4. Run app.py with command: python3 app.py
 5. Go to http://127.0.0.1:5000 and try some example prompts
 
+Demo:
+
+https://github.com/notnotrishi/vignette/assets/6056505/0c66a331-0da3-4529-982e-995580f184b8
+
+
+
 Further work:
 1. Provide a reference image via API to be used in the generated image
 2. Include generated output in the next API call to enable edits on the fly to generated images
