@@ -13,4 +13,5 @@ Further work:
 2. Include generated output in the next API call to enable edits on the fly to generated images
    
 --
+
 NOTE: This is just a demo of Claude API and not for commercial use
