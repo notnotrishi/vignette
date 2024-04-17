@@ -20,4 +20,4 @@ Further work:
    
 --
 
-NOTE: This is just a demo of Claude API and not for commercial use
+NOTE: This is just a demo of Claude API capabilities and not meant for commercial use
